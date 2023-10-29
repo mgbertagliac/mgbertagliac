@@ -2,5 +2,5 @@
 
 📈 Transformando números em insights, um código de cada vez. Compartilhando minha jornada tech 📷.
 
-<img src="tec.gif">
+<center><img src="tec.gif"></center>
 
